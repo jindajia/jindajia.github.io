@@ -13,7 +13,7 @@ Currently, I am working on projects focused on reducing communication overhead i
 
 ## News
 
-- Dec 2024: Presenting our work SDP4Bit as a poster at NeurIPS 2024 in Vancouver.
+- Dec 2024: I will present our work, SDP4Bit, as a poster at NeurIPS 2024 in Vancouver.
 - Nov 2024: Attending [SC2024](https://sc24.supercomputing.org/program/) in Atlanta from 17 to 22.
 - Nov 2024: Congrats! Our paper, COMPSO was accepted to PPoPP 2025.
 - Oct 2024: Congrats! Our paper, SDP4Bit was accepted to NeurIPS 2024, and I am honored to be the first equal-contribution collaborator on it.

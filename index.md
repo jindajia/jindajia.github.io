@@ -4,10 +4,12 @@ layout: home
 ---
 
 # Jinda Jia
+**Email: jindjia@iu.edu** and [LinkedIn](https://www.linkedin.com/in/jindajia/)
 
 I am a second-year Ph.D. student at Indiana University, currently supervised by Dr. Dingwen Tao. My research interests lie in Machine Learning Systems, High-Performance Computing, and Distributed Training Systems.
 
 Currently, I am working on projects focused on reducing communication overhead in large language model (LLM) training. My research explores techniques such as compression and computation-communication overlapping to improve efficiency.
+
 
 ## News
 

@@ -1,9 +1,13 @@
 title: Jinda Jia
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
+color_scheme: light
 
 url: https://jindjia.github.io
 
 aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
   Google Scholar: https://scholar.google.com/citations?user=6lAxnDwAAAAJ&hl=en&oi=sra
+
+plugins:
+  - jekyll-default-layout

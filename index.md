@@ -21,7 +21,7 @@ Currently, I am working on projects focused on reducing communication overhead i
 ## Publications
 
 - **COMPSO: Optimizing Gradient Compression for Distributed Training with Second-Order Optimizers** \
-    Baixi Sun, Weijin Liu, J. Gregory Pauloski, Jiannan Tian, <u>Jinda Jia*</u>, Daoce Wang, Boyuan Zhang, Mingkai Zheng, Sheng Di, Sian Jin, Zhao Zhang, Xiaodong Yu, Kamil A. Iskra, Pete Beckman, Guangming Tan, Dingwen Tao \
+    Baixi Sun, Weijin Liu, J. Gregory Pauloski, Jiannan Tian, <u>Jinda Jia</u>, Daoce Wang, Boyuan Zhang, Mingkai Zheng, Sheng Di, Sian Jin, Zhao Zhang, Xiaodong Yu, Kamil A. Iskra, Pete Beckman, Guangming Tan, Dingwen Tao \
     PPoPP 2025
 
 - **SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training** \

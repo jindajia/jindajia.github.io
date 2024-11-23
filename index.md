@@ -3,33 +3,28 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+# Jinda Jia
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+I am a second-year Ph.D. student at Indiana University, currently supervised by Dr. Dingwen Tao. My research interests lie in Machine Learning Systems, High-Performance Computing, and Distributed Training Systems.
 
-More specifically, the created site:
+Currently, I am working on projects focused on reducing communication overhead in large language model (LLM) training. My research explores techniques such as compression and computation-communication overlapping to improve efficiency.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## News
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- Dec 2024: Presenting our work SDP4Bit as a poster at NeurIPS 2024 in Vancouver.
+- Nov 2024: Attending [SC2024](https://sc24.supercomputing.org/program/) in Atlanta from 17 to 22.
+- Nov 2024: Our paper, **COMPSO** was accepted to PPoPP 2025.
+- Oct 2024: Our paper, SDP4Bit, was accepted to NeurIPS 2024, and I am honored to be the first equal-contribution collaborator on it.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+## Publications
 
-To get started with creating a site, simply:
+- **COMPSO: Optimizing Gradient Compression for Distributed Training with Second-Order Optimizers** \
+    Baixi Sun, Weijin Liu, J. Gregory Pauloski, Jiannan Tian, <u>Jinda Jia*</u>, Daoce Wang, Boyuan Zhang, Mingkai Zheng, Sheng Di, Sian Jin, Zhao Zhang, Xiaodong Yu, Kamil A. Iskra, Pete Beckman, Guangming Tan, Dingwen Tao \
+    PPoPP 2025
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+- **SDP4Bit: Toward 4-bit Communication Quantization in Sharded Data Parallelism for LLM Training** \
+    <u>Jinda Jia*</u>, Cong Xie*, Hanlin Lu, Daoce Wang, Hao Feng, Chengming Zhang, Baixi Sun, Haibin Lin, Zhi Zhang, Xin Liu, Dingwen Tao \
+    NeurIPS 2024 \
+    [Paper](https://openreview.net/forum?id=PEEqnXlSCk) [Code](https://github.com/jindajia/SDP4Bit)
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+[Dr.Dingwen Tao]: https://www.dingwentao.com/hipdac

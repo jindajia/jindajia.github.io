@@ -6,7 +6,7 @@ layout: home
 # Jinda Jia
 **Email: jindjia@iu.edu** and [LinkedIn](https://www.linkedin.com/in/jindajia/)
 
-I am a second-year Ph.D. student at Indiana University, currently supervised by Dr. Dingwen Tao. My research interests lie in Machine Learning Systems, High-Performance Computing, and Distributed Training Systems.
+I am a second-year Ph.D. student at Indiana University, currently supervised by [Dr. Dingwen Tao] and [Dr. Fengguang Song]. My research interests lie in Machine Learning Systems, High-Performance Computing, and Distributed Training Systems.
 
 Currently, I am working on projects focused on reducing communication overhead in large language model (LLM) training. My research explores techniques such as compression and computation-communication overlapping to improve efficiency.
 
@@ -30,3 +30,4 @@ Currently, I am working on projects focused on reducing communication overhead i
     [Paper](https://openreview.net/forum?id=PEEqnXlSCk) [Code](https://github.com/jindajia/SDP4Bit)
 
 [Dr.Dingwen Tao]: https://www.dingwentao.com/hipdac
+[Dr. Fengguang Song]: https://homes.luddy.indiana.edu/fgsong/

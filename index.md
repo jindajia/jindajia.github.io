@@ -34,5 +34,5 @@ Currently, I am working on projects focused on reducing communication overhead i
     NeurIPS 2024 \
     [Paper](https://openreview.net/forum?id=PEEqnXlSCk) [Code](https://github.com/jindajia/SDP4Bit)
 
-[Dr.Dingwen Tao]: https://www.dingwentao.com/hipdac
+[Dr. Dingwen Tao]: https://www.dingwentao.com/hipdac
 [Dr. Fengguang Song]: https://homes.luddy.indiana.edu/fgsong/

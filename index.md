@@ -16,7 +16,7 @@ I am a second-year Ph.D. student at Indiana University, currently supervised by 
 Currently, I am working on projects focused on reducing communication overhead in large language model (LLM) training. My research explores techniques such as compression and computation-communication overlapping to improve efficiency.
 
 
-## News
+## Posts
 
 - Dec 2024: I will present our work, SDP4Bit, as a poster at NeurIPS 2024 in Vancouver.
 - Nov 2024: Attending [SC2024](https://sc24.supercomputing.org/program/) in Atlanta from 17 to 22.

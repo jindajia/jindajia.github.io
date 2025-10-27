@@ -43,14 +43,14 @@ Accelerating LLM Training by Compressing Communication
 ## News
 
 - **Oct 2025**: Join **TogetherAI** as a Research Intern, working on KV Cache Quantization in SGLang.
-- **Sept 2025**: Our paper **DUO: No Compromise to Accuracy Degradation** was accepted to **NeurIPS 2025** as first author!
+- **Sept 2025**: Our paper **DUO: No Compromise to Accuracy Degradation** was accepted to **NeurIPS 2025**, where I am the first author!!
 - **July 2025**: Attend **DAC 2025** (Design Automation Conference) in San Francisco, California, where our paper **BirdMoE** was presented.
 - **June 2025**: Our paper **STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data** was accepted to **SC 2025**.
 - **May 2025**: Join **Bytedance Seed Infra** as a Research Intern, working on Hybrid LocalSGD-HSDP for Hierarchical Communication Reduction.
 - **Dec 2024**: Presented **SDP4Bit** as a poster at **NeurIPS 2024** in Vancouver, Canada.
 - **Nov 2024**: Attend [SC 2024](https://sc24.supercomputing.org/program/) (The International Conference for High Performance Computing, Networking, Storage, and Analysis) in Atlanta, Georgia.
 - **Nov 2024**: Our paper **COMPSO** was accepted to **PPoPP 2025**.
-- **Oct 2024**: Our paper **SDP4Bit** was accepted to **NeurIPS 2024**.
+- **Oct 2024**: Our paper **SDP4Bit** was accepted to **NeurIPS 2024**, where I am the first author!
 
 ## Publications
 

@@ -3,8 +3,9 @@ title: Home
 layout: home
 ---
 
-# Jinda Jia
-**Email: jiajinda001@gmail.com | jindjia@iu.edu** | [LinkedIn](https://www.linkedin.com/in/jindajia/)
+<!-- # Jinda Jia -->
+<!-- <br/><br/> -->
+**Email:** jindjia@iu.edu  [LinkedIn](https://www.linkedin.com/in/jindajia/)
 
 Ph.D. in Computer Engineering, Indiana University Bloomington (Jan. 2024 - Present) \
 M.S. in Computer Science, University of Florida (Aug. 2021 - Dec. 2022) \

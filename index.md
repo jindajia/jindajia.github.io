@@ -17,9 +17,10 @@ I am a Ph.D. student at Indiana University Bloomington, supervised by Prof. Ding
 My current work involves reducing communication overhead in large language model (LLM) training through advanced compression techniques and computation-communication overlapping strategies to improve training efficiency at scale.
 
 ## Research Interests
+- HPC
 - Efficient Machine Learning System
 - Efficient LLM pre-training and inference
-- Collective Communication
+- NCCL, Collective Communication
 - Quantization, Compression, and Overlapping of Communication during LLM pretraining
 - Megatron-LM, Deepspeed, vLLM, SGLang
 

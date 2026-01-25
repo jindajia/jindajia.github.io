@@ -12,7 +12,7 @@ M.S. in Computer Science, University of Florida (Aug. 2021 - Dec. 2022) \
 B.S. in Software Engineering, Shandong University (Sept. 2016 - June 2020)
 
 ## Bio
-I am a Ph.D. student at Indiana University Bloomington, supervised by Prof. Dingwen Tao and Prof. Fengguang Song. My research focuses on Efficient Machine Learning Systems, particularly in efficient LLM pre-training and inference, collective communication, and quantization/compression techniques for distributed training. I work extensively with systems like Megatron-LM, Deepspeed, vLLM, and SGLang.
+I am a Ph.D. student at Indiana University Bloomington, supervised by Prof. Fengguang Song. My research focuses on Efficient Machine Learning Systems, particularly in efficient LLM pre-training and inference, collective communication, and quantization/compression techniques for distributed training. I work extensively with systems like Megatron-LM, Deepspeed, vLLM, and SGLang.
 
 My current work involves reducing communication overhead in large language model (LLM) training through advanced compression techniques and computation-communication overlapping strategies to improve training efficiency at scale.
 

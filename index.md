@@ -43,13 +43,15 @@ layout: home
     </li>
     <li>
       <span class="paper-title">BirdMoE: Reducing Communication Costs for Mixture-of-Experts Training Using Load-Aware Bi-random Quantization</span>
-      <p class="authors">Jinda Jia (fourth author)</p>
+      <p class="authors">Donglei Wu, Weihao Yang, Xiangyu Zou, <strong>Jinda Jia</strong>, Dingwen Tao, Wen Xia, Zhihong Tian</p>
       <p class="venue">DAC 2025</p>
+      <div class="paper-links"><a href="https://dl.acm.org/doi/10.1109/DAC63849.2025.11132853">Paper</a></div>
     </li>
     <li>
       <span class="paper-title">STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data</span>
-      <p class="authors">Jinda Jia (sixth author)</p>
+      <p class="authors">Daoce Wang, Pascal Grosset, Jesus Pulido, Jiannan Tian, Tushar M. Athawale, <strong>Jinda Jia</strong>, Baixi Sun, Boyuan Zhang, Sian Jin, Kai Zhao, James Ahrens, Fengguang Song</p>
       <p class="venue">SC 2025</p>
+      <div class="paper-links"><a href="https://arxiv.org/abs/2509.01626">Paper</a></div>
     </li>
   </ol>
 </section>

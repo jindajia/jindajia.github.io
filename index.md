@@ -62,6 +62,12 @@ Accelerating LLM Training by Compressing Communication
 
 ## Publications
 
+- **SAW-INT4: System-Aware 4-Bit KV-Cache Quantization for Real-World LLM Serving** \
+    <u>Jinda Jia</u>, Jisen Li, Zhongzhu Zhou, Jung Hwan Heo, Jue Wang, Tri Dao, Shuaiwen Leon Song, Ben Athiwaratkun, Chenfeng Xu, Tianyi Zhang, Xiaoxia Wu \
+    *arXiv preprint, 2026* \
+    [Paper](https://arxiv.org/abs/2604.19157) | [Code](https://github.com/togethercomputer/saw-int4) \
+    Uses token-wise INT4 KV-cache quantization with block-diagonal Hadamard rotation to preserve serving performance while recovering accuracy.
+
 - **DUO: No Compromise to Accuracy Degradation** \
     <u>Jinda Jia</u>, Cong Xie, Fanjiang Ye, Hao Feng, Hanlin Lu, Daoce Wang, Haibin Lin\
     *NeurIPS 2025* \

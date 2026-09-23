@@ -27,6 +27,10 @@ My current work involves reducing communication overhead in large language model
 
 ## Experience
 
+**Applied Deep Learning Research Intern, NVIDIA** \
+*May 2026 - July 2026* \
+Manager: Tijmen
+
 **Research Intern, TogetherAI** \
 *Oct. 2025 - Present* \
 Implementing KV Cache Quantization in SGLang

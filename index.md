@@ -29,7 +29,7 @@ My current work involves reducing communication overhead in large language model
 
 **Applied Deep Learning Research Intern, NVIDIA** \
 *May 2026 - July 2026* \
-Manager: Tijmen Blankevoort. Worked on NVFP4 quantization and expert-parallel communication quantization with NVFP4.
+Worked with Tijmen Blankevoort on NVFP4 quantization and expert-parallel communication quantization with NVFP4.
 
 **Research Intern, TogetherAI** \
 *Oct. 2025 - May 2026* \

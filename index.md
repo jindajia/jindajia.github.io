@@ -29,10 +29,10 @@ My current work involves reducing communication overhead in large language model
 
 **Applied Deep Learning Research Intern, NVIDIA** \
 *May 2026 - July 2026* \
-Manager: Tijmen
+Manager: Tijmen Blankevoort. Worked on NVFP4 quantization and expert-parallel communication quantization with NVFP4.
 
 **Research Intern, TogetherAI** \
-*Oct. 2025 - Present* \
+*Oct. 2025 - May 2026* \
 Implementing KV Cache Quantization in SGLang
 
 **Research Intern, Bytedance Seed Infra** \
@@ -50,7 +50,7 @@ Accelerating LLM Training by Compressing Communication
 
 - **Sept 2026**: Began my Ph.D. in Computer Science at **UC San Diego**, advised by Prof. Dan Fu.
 
-- **Oct 2025**: Join **TogetherAI** as a Research Intern, working on KV Cache Quantization in SGLang.
+- **Oct 2025**: Joined **TogetherAI** as a Research Intern, working on KV cache quantization in SGLang.
 - **Sept 2025**: Our paper **DUO: No Compromise to Accuracy Degradation** was accepted to **NeurIPS 2025**, where I am the first author!!
 - **July 2025**: Attend **DAC 2025** (Design Automation Conference) in San Francisco, California, where our paper **BirdMoE** was presented.
 - **June 2025**: Our paper **STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data** was accepted to **SC 2025**.

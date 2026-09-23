@@ -18,12 +18,12 @@ I am a Ph.D. student in Computer Science at the University of California San Die
 My current work involves reducing communication overhead in large language model (LLM) training through advanced compression techniques and computation-communication overlapping strategies to improve training efficiency at scale.
 
 ## Research Interests
-- HPC
-- Efficient Machine Learning System
+- Efficient Machine Learning Systems
 - Efficient LLM pre-training and inference
-- NCCL, Collective Communication
-- Quantization, Compression, and Overlapping of Communication during LLM pretraining
-- Megatron-LM, Deepspeed, vLLM, SGLang
+- Quantization, compression, and communication-computation overlap in distributed training
+- NCCL and collective communication
+- Megatron-LM, DeepSpeed, vLLM, SGLang
+- HPC
 
 ## Experience
 

@@ -7,12 +7,13 @@ layout: home
 <!-- <br/><br/> -->
 **Email:** jindjia@iu.edu  [LinkedIn](https://www.linkedin.com/in/jindajia/)
 
-Ph.D. in Computer Engineering, Indiana University Bloomington (Jan. 2024 - Present) \
+Ph.D. in Computer Science, University of California San Diego (Sept. 2026 - Present) \
+Ph.D. studies in Computer Engineering, Indiana University Bloomington (Jan. 2024 - Aug. 2026) \
 M.S. in Computer Science, University of Florida (Aug. 2021 - Dec. 2022) \
 B.S. in Software Engineering, Shandong University (Sept. 2016 - June 2020)
 
 ## Bio
-I am a Ph.D. student at Indiana University Bloomington, supervised by Prof. Fengguang Song. My research focuses on Efficient Machine Learning Systems, particularly in efficient LLM pre-training and inference, collective communication, and quantization/compression techniques for distributed training. I work extensively with systems like Megatron-LM, Deepspeed, vLLM, and SGLang.
+I am a Ph.D. student in Computer Science at the University of California San Diego, advised by Prof. Dan Fu. My research focuses on Efficient Machine Learning Systems, particularly in efficient LLM pre-training and inference, collective communication, and quantization/compression techniques for distributed training. I work extensively with systems like Megatron-LM, Deepspeed, vLLM, and SGLang.
 
 My current work involves reducing communication overhead in large language model (LLM) training through advanced compression techniques and computation-communication overlapping strategies to improve training efficiency at scale.
 
@@ -35,13 +36,15 @@ Implementing KV Cache Quantization in SGLang
 Working on Hybrid LocalSGD-HSDP for Hierarchical Communication Reduction
 
 **Research Assistant, Indiana University Bloomington** \
-*Aug. 2023 - Present* \
+*Aug. 2023 - July 2026* \
 Accelerating LLM Training by Compressing Communication
 
 **iOS Developer, Meituan** \
 *July 2020 - July 2021*
 
 ## News
+
+- **Sept 2026**: Began my Ph.D. in Computer Science at **UC San Diego**, advised by Prof. Dan Fu.
 
 - **Oct 2025**: Join **TogetherAI** as a Research Intern, working on KV Cache Quantization in SGLang.
 - **Sept 2025**: Our paper **DUO: No Compromise to Accuracy Degradation** was accepted to **NeurIPS 2025**, where I am the first author!!

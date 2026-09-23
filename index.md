@@ -5,7 +5,7 @@ layout: home
 
 <!-- # Jinda Jia -->
 <!-- <br/><br/> -->
-**Email:** jindjia@iu.edu  [LinkedIn](https://www.linkedin.com/in/jindajia/)
+**Email:** [jindajia@ucsd.edu](mailto:jindajia@ucsd.edu)  [LinkedIn](https://www.linkedin.com/in/jindajia/)
 
 Ph.D. in Computer Science, University of California San Diego (Sept. 2026 - Present) \
 Ph.D. studies in Computer Engineering, Indiana University Bloomington (Jan. 2024 - Aug. 2026) \
@@ -33,15 +33,15 @@ Worked with Tijmen Blankevoort on NVFP4 quantization and expert-parallel communi
 
 **Research Intern, TogetherAI** \
 *Oct. 2025 - May 2026* \
-Implementing KV Cache Quantization in SGLang
+Worked on KV-cache quantization in SGLang
 
 **Research Intern, Bytedance Seed Infra** \
 *May 2025 - Aug. 2025* \
-Working on Hybrid LocalSGD-HSDP for Hierarchical Communication Reduction
+Worked on hybrid LocalSGD-HSDP for hierarchical communication reduction
 
 **Research Assistant, Indiana University Bloomington** \
 *Aug. 2023 - July 2026* \
-Accelerating LLM Training by Compressing Communication
+Worked on communication compression for LLM training
 
 **iOS Developer, Meituan** \
 *July 2020 - July 2021*
@@ -49,14 +49,14 @@ Accelerating LLM Training by Compressing Communication
 ## News
 
 - **Sept 2026**: Began my Ph.D. in Computer Science at **UC San Diego**, advised by Prof. Dan Fu.
-
+- **Apr 2026**: Released [SAW-INT4](https://arxiv.org/abs/2604.19157), our work on 4-bit KV-cache quantization for LLM serving.
 - **Oct 2025**: Joined **TogetherAI** as a Research Intern, working on KV cache quantization in SGLang.
 - **Sept 2025**: Our paper **DUO: No Compromise to Accuracy Degradation** was accepted to **NeurIPS 2025**, where I am the first author!!
-- **July 2025**: Attend **DAC 2025** (Design Automation Conference) in San Francisco, California, where our paper **BirdMoE** was presented.
+- **July 2025**: Attended **DAC 2025** (Design Automation Conference) in San Francisco, California, where our paper **BirdMoE** was presented.
 - **June 2025**: Our paper **STZ: A High Quality and High Speed Streaming Lossy Compression Framework for Scientific Data** was accepted to **SC 2025**.
-- **May 2025**: Join **Bytedance Seed Infra** as a Research Intern, working on Hybrid LocalSGD-HSDP for Hierarchical Communication Reduction.
+- **May 2025**: Joined **Bytedance Seed Infra** as a Research Intern, working on Hybrid LocalSGD-HSDP for Hierarchical Communication Reduction.
 - **Dec 2024**: Presented **SDP4Bit** as a poster at **NeurIPS 2024** in Vancouver, Canada.
-- **Nov 2024**: Attend [SC 2024](https://sc24.supercomputing.org/program/) (The International Conference for High Performance Computing, Networking, Storage, and Analysis) in Atlanta, Georgia.
+- **Nov 2024**: Attended [SC 2024](https://sc24.supercomputing.org/program/) (The International Conference for High Performance Computing, Networking, Storage, and Analysis) in Atlanta, Georgia.
 - **Nov 2024**: Our paper **COMPSO** was accepted to **PPoPP 2025**.
 - **Oct 2024**: Our paper **SDP4Bit** was accepted to **NeurIPS 2024**, where I am the first author!
 

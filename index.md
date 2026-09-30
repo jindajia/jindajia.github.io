@@ -71,5 +71,4 @@ layout: home
   <div class="entry"><span class="date">2024–2026</span><div><h3>Ph.D. studies in Computer Engineering · Indiana University Bloomington</h3></div></div>
   <div class="entry"><span class="date">2021–2022</span><div><h3>M.S. in Computer Science · University of Florida</h3></div></div>
   <div class="entry"><span class="date">2016–2020</span><div><h3>B.S. in Software Engineering · Shandong University</h3></div></div>
-  <p class="compact">Service: NeurIPS 2024 and 2025, ICML 2025 reviewer. Awards: University of Florida Graduate Academic Achievement Award; Indiana University Travel Award.</p>
 </section>

@@ -6,7 +6,7 @@ layout: home
 <section id="news" aria-labelledby="news-title">
   <h2 id="news-title">News</h2>
   <ul class="news">
-    <li><span class="date">Sep 2026</span><span>Began my Ph.D. in Computer Science at UC San Diego, advised by Prof. Dan Fu.</span></li>
+    <li><span class="date">Sep 2026</span><span>Began my Ph.D. in Computer Science and Engineering at UC San Diego, advised by Prof. Dan Fu.</span></li>
     <li><span class="date">Apr 2026</span><span>Released <a href="https://arxiv.org/abs/2604.19157">SAW-INT4</a>, our work on 4-bit KV-cache quantization for LLM serving.</span></li>
     <li><span class="date">Sep 2025</span><span><strong>DUO</strong> was accepted to NeurIPS 2025.</span></li>
     <li><span class="date">Jun 2025</span><span><strong>STZ</strong> was accepted to SC 2025.</span></li>
@@ -67,7 +67,7 @@ layout: home
 
 <section id="background" aria-labelledby="background-title">
   <h2 id="background-title">Background</h2>
-  <div class="entry"><span class="date">2026–present</span><div><h3>Ph.D. in Computer Science · UC San Diego</h3><p>Advised by Prof. Dan Fu.</p></div></div>
+  <div class="entry"><span class="date">2026–present</span><div><h3>Ph.D. in Computer Science and Engineering · UC San Diego</h3><p>Advised by Prof. Dan Fu.</p></div></div>
   <div class="entry"><span class="date">2024–2026</span><div><h3>Ph.D. studies in Computer Engineering · Indiana University Bloomington</h3></div></div>
   <div class="entry"><span class="date">2021–2022</span><div><h3>M.S. in Computer Science · University of Florida</h3></div></div>
   <div class="entry"><span class="date">2016–2020</span><div><h3>B.S. in Software Engineering · Shandong University</h3></div></div>
